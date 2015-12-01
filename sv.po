@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2014-09-03 14:03+0000\n"
-"Last-Translator: Mr Bengtsson <viktor-200@live.se>\n"
+"Last-Translator: Tobias Henricsson <henricsson@hotmail.com>\n"
 "Language-Team: Swedish <http://translate.greenheartgames.com/projects/game-"
 "dev-tycoon/master/sv/>\n"
 "Language: sv\n"
@@ -27,15 +27,15 @@ msgstr "Sätt en ny standard för den tidiga spelindustrin."
 
 #. achievement title
 msgid "100K Engine"
-msgstr "100K Spelmotor"
+msgstr "Spelmotor för 100 000"
 
 #. achievement
 msgid "Invest over 100K in a new game engine."
-msgstr "Investera över 100K i en ny spelmotor."
+msgstr "Investera över 100 000 i en ny spelmotor."
 
 #. achievement title
 msgid "500K Engine"
-msgstr "500K Spelmotor"
+msgstr "Spelmotor för 500 000"
 
 #. achievement
 msgid "Invest over 500K in a new game engine."
@@ -43,7 +43,7 @@ msgstr "Investera över 500K i en ny spelmotor."
 
 #. achievement title
 msgid "1M Engine"
-msgstr "1M Spelmotor"
+msgstr "Spelmotor för en miljon"
 
 #. achievement
 msgid "Invest over one million in a new game engine."
@@ -183,7 +183,7 @@ msgstr "Välkommen till ditt sjukhus"
 
 #. achievement refers to Theme Hospital, use official translation for this.
 msgid "Patients are reminded not to die in the corridors."
-msgstr "Patienterna påminns att inte dö i korridorerna."
+msgstr "Patienterna uppmanas att inte dö i korridorerna."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
@@ -313,16 +313,16 @@ msgid ""
 "Sorry to hear that you are busy.\n"
 "Gordon"
 msgstr ""
-"Ledsen att höra att du är upptagen. \n"
+"Tråkigt att höra att du är upptagen. \n"
 "Gordon"
 
 #. heading
 msgid "Local News"
-msgstr "Lokala Nyheter"
+msgstr "Lokala nyheter"
 
 msgid "Hi, I'm Caroline Richards from the local news. I've heard rumours that you are already working on your next game and would love to do an interview about this. Do you have some time?"
 msgstr ""
-"Hej, jag är Caroline Richards från de lokala nyheterna. Jag har hört rykten "
+"Hej, jag heter Caroline Richards och jobbar på lokala nyheterna. Jag har hört rykten "
 "om att ni redan arbetar på ert nästa spel och skulle gärna vilja göra en "
 "intervju om detta. Har du tid?"
 
@@ -335,7 +335,7 @@ msgstr ""
 "Härligt! \n"
 "\n"
 "\n"
-"... Tack för din tid.{n}Intervjun är snart publicerad."
+"... Tack för din tid.{n}Intervjun kommer att publiceras snart."
 
 #. localNewsPaperFragment
 msgid "not done"
@@ -348,11 +348,11 @@ msgstr "klar"
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
-"{0}, ett lokalt företag, försöker att göra sitt bästa i spelbranschen. "
+"{0}, ett lokalt företag, försöker att slå sig in i spelbranschen. "
 "Företaget har redan publicerat {1} spel och arbetar hårt på sitt nästa.{N} I "
-"en intervju med grundaren {2} sade att nästa spel kommer att bli ett {3} / "
-"{4} spel, något som företaget har {5} innan. Det är bra att se små lokala "
-"företag komma in nya spännande branscher. All lycka till {0}."
+"en intervju med grundaren {2} sade denne att nästa spel kommer att bli ett {3} / "
+"{4}-spel, något som företaget har {5} innan. Det är härligt att se små lokala "
+"företag ta sig in i nya spännande branscher. Vi önskar {0} alla lycka till."
 
 msgid "Sorry to bother you"
 msgstr "Ledsen att störa dig"
