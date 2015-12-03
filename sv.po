@@ -720,7 +720,7 @@ msgid ""
 "Would you like to help out?"
 msgstr ""
 "Hej chefen! En vän till mig är mycket involverad i en organisation som "
-"syftar till att få in fler kvinnor i teknik världen. De letar efter en "
+"syftar till att få in fler kvinnor i teknikvärlden. De letar efter en "
 "sponsor, och jag tror att detta skulle vara ett perfekt tillfälle för oss.\n"
 "Vill du hjälpa till?"
 
@@ -738,8 +738,8 @@ msgid ""
 "{1}, the CEO at {0} said, 'We would love to see more women in the game industry.'"
 msgstr ""
 "Vi har fått veta att {0} nyligen sponsrade en berömd rörelse för att få in "
-"fler kvinnor i tekniska roller.\n"
-"{1}, VD på {0} sa att, \"Vi vill gärna se fler kvinnor i spelbranschen.\""
+"fler kvinnor i tekniska yrken.\n"
+"{1}, VD på {0} sa: \"Vi vill gärna se fler kvinnor i spelbranschen.\""
 
 #. {0} game title
 msgid ""
@@ -757,7 +757,7 @@ msgstr ""
 
 #. decision action button
 msgid "Sue them"
-msgstr "Stämm dem"
+msgstr "Stäm dem"
 
 #. decision action button
 msgid "Warn them"
@@ -766,8 +766,8 @@ msgstr "Varna dem"
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
 "Piratkopiering är ett stort problem i branschen. Vissa företag investerar "
-"mycket pengar och ansträngning för att bekämpa piratkopiering medan andra "
-"hävdar att det är bättre att ta en mer avslappnad inställning och investera "
+"mycket pengar och möda i att bekämpa piratkopiering medan andra "
+"hävdar att det är bättre att ha en mer avslappnad inställning och investera "
 "i bättre spel istället."
 
 #. {0} nr of fans, {1} cash amount
@@ -777,8 +777,8 @@ msgstr "Vi har förlorat {0} fans men vann {1} i rättsanspråk."
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
-"I vad några har kallat en dramatisk åtgärd har {0} nyligen tagit rättsliga "
-"åtgärder mot olagliga spelare av deras spel {1}."
+"I vad några har kallat en något drastisk åtgärd har {0} nyligen vidtagit "
+"rättsliga åtgärder mot olagliga spelare av deras spel {1}."
 
 #. expense label
 msgid "legal claims"
@@ -801,8 +801,8 @@ msgstr ""
 "Chefen, jag nyligen upptäckt att några riktigt hängivna fans av {0} har "
 "skapat ett fan-spel med en hel del material från vårt spel.\n"
 "De tjänar inte några pengar på det och verkar bara göra det för andra fans. "
-"Våra juridiska rådgivare tycker starkt att vi inte ska låta detta pågå. Vad "
-"vill du göra?"
+"Våra juridiska rådgivare rekommenderar starkt att vi inte låter detta pågå. "
+"Vad vill du göra?"
 
 #. decision action button
 msgid "Stop them"
@@ -823,11 +823,11 @@ msgstr "Tack så mycket"
 #. {0} game name, {1} company name
 msgid "Hi, I'm Denise Ried the main developer of the {0} fan game. I've recently been informed that your legal department has advised you to stop us and I just wanted to say that I'm very grateful that you didn't.{n}{1} is the best company in the world and I'm glad I can be part of the fan community."
 msgstr ""
-"Hej, jag är Denise Ried den främsta utvecklaren av {0} fan spel. Jag har "
+"Hej, jag heter Denise Riedcoh är huvudutvecklare av {0}s fan-spel. Jag har "
 "nyligen fått veta att din juridiska avdelning har rekommenderat dig att "
 "stoppa oss, och jag ville bara säga att jag är mycket tacksam för att ni "
-"inte gjorde det.{n}{1} är det bästa företaget i världen och jag är glad att "
-"jag kan vara en del av fan gemenskapen."
+"inte gjorde det.{n}{1} är det bästa företaget i världen och jag är glad över "
+"att få vara en del av fangemenskapen."
 
 #. heading
 msgid "Fans"
@@ -838,8 +838,8 @@ msgstr "Vi har förlorat {0} fans!"
 
 msgid "Boss, we would like to stage an internal coding contest! I think we could all learn a lot by doing this. As an incentive we would need a prize for the winner ({0}). We agreed that the prize will go to charity. Should we do it?"
 msgstr ""
-"Chefen, vill vi arrangera en intern kodnings tävling! Jag tror att vi alla "
-"kan lära oss mycket genom att göra detta. Som uppmuntran skulle vi behöva "
+"Chefen, vi skulle vilja arrangera en intern kodningstävling! Jag tror att vi alla "
+"skulle kunna lära oss mycket genom att göra det. Som uppmuntran skulle vi behöva "
 "ett pris till vinnaren ({0}). Vi kom överens om att priset kommer att gå "
 "till välgörenhet. Ska vi göra det?"
 
@@ -855,9 +855,9 @@ msgstr "Programmeringstävling"
 
 msgid "Thanks for agreeing to the coding contest. It was a big success! {0} won the contest and is lucky to distribute the prize of {1} to charity. We have also learned a lot in the process."
 msgstr ""
-"Tack för att du accepterade kodnings tävlingen. Det var en stor succé! {0} "
-"vann tävlingen och är lycklig att dela ut priset för {1} till välgörenhet. "
-"Vi har också lärt oss en hel del i processen."
+"Tack för att du accepterade kodningstävlingen. Det blev en stor succé! {0} "
+"vann tävlingen och delar gladeligen ut priset på {1} till välgörenhet. "
+"Vi har också lärt oss en hel del längs vägen."
 
 msgid "Boss, someone seems to have stolen our credit card information and used it to buy a lot of things in the past three months. Unfortunately we have lost {0}!"
 msgstr ""
@@ -875,9 +875,9 @@ msgid ""
 "Would you like to install it?"
 msgstr ""
 "Jag är anställd av Naturvårdsverket och har ett erbjudande till dig. Ditt "
-"företag har en hög elektrisk användning just nu. Om du vill installera "
+"företag har en hög elanvändning just nu. Om du installerade "
 "solpaneler så kan du minska din användning och spara pengar i det långa "
-"loppet. Vi skulle sponsra 50% av de kostnader som tillkommer för {0}!\n"
+"loppet. Vi skulle sponsra 50% av kostnaderna, vilket gör att din investering blir {0}!\n"
 "Vill du skaffa solpaneler det?"
 
 #. decision action button
@@ -886,7 +886,7 @@ msgstr "Installera (betala {0})"
 
 #. decision action button
 msgid "Ignore offer"
-msgstr "Ignorera bud"
+msgstr "Tacka nej till bud"
 
 #. heading
 msgid "solar panels"
@@ -898,10 +898,9 @@ msgstr "Bra, det var ett klokt beslut att installera solpaneler!"
 #. {0} company name
 msgid "{0} has recently installed solar panels in their offices. While the video game and software industries are one of the cleanest industries on earth they do eat up a lot of electricity so installing solar panels can really make an impact."
 msgstr ""
-"{0} har nyligen installerat solpaneler på sina kontor. Medan TV-spelets och "
-"industriernas mjukvara är en av de renaste industrierna på jorden använder "
-"upp en hel del el så att installera solpaneler kan verkligen göra en "
-"inverkan."
+"{0} har nyligen installerat solpaneler på sina kontor. Även om TV-spels- och "
+"mjukvaruindustrierna är en av de renaste industrierna på jorden använder "
+"de en hel del el. Så att installera solpaneler kan verkligen göra skillnad."
 
 msgid "Sorry to hear that you are declining our offer"
 msgstr "Tråkigt att du avslår vårat erbjudande"
@@ -910,10 +909,10 @@ msgid ""
 "Boss, it's way too hot in our office and the heat is starting to impact on our work. I've researched and found an air conditioner which would be perfect for us. It costs {0}.\n"
 "Should we order it?"
 msgstr ""
-"Chefen, det är alldeles för varmt i vårt kontor och värmen börjar påverka "
-"vårt arbete. Jag har  hittat en luftkonditioneringsmaskin som skulle vara "
+"Chefen, det är alldeles för varmt på vårt kontor och värmen börjar påverka "
+"vårt arbete. Jag har hittat en luftkonditioneringsmaskin som skulle vara "
 "perfekt för oss. Den kostar {0}.\n"
-"Ska vi beställa det?"
+"Ska vi beställa den?"
 
 #. decision action button
 msgid "Yes (pay {0})"
